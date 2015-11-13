@@ -1,0 +1,26 @@
+Theme:
+Superstition
+
+Black Cats-
+9 lives
+walk in your path
+
+Cracked Mirrors-
+7 years bad luck
+
+
+Ideas:
+hotel - 
+wake up in your bedroom - note telling you to get to the 13th floor
+travel to the elevator - press button to travel to the next floor
+- each iteration of this gets you to a higher floor
+
+Cat guides you or gives you hints?
+Follow the black cat.
+
+'Luck' - metric bar for how much 'health'/'sanity' you have left
+doing simple interactions which prefresent superstitions replensish 'luck'
+failing at a task or something bad happening reduces 'luck'
+
+each foor has you overcome a different superstition/phobia
+-only do 4/5 levels at first
